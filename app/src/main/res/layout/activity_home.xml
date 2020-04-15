@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#59e">
+    <TextView
+        android:id="@+id/txt_login_click"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:text="login"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:background="#59e"
+        android:textSize="18sp"
+       />
+    <TextView
+        android:id="@+id/txt_home_click"
+        android:layout_width="120dp"
+        android:layout_height="60dp"
+        android:text="home"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:background="#59e"
+        android:textSize="18sp"
+  />
+
+</RelativeLayout>

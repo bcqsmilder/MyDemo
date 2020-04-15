@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AmbowNetUtils</string>
+
+    <string name="check_your_network_connection">请检查您的网络连接!</string>
+</resources>
