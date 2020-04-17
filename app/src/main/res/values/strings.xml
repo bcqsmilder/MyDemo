@@ -1,3 +1,283 @@
 <resources>
     <string name="app_name">MyDemo</string>
+
+
+
+    <string name="txt_send">发送</string>
+    <string name="state_the_topic_of_your_discussion_in_one_sentence">#用一句话说出你的讨论话题#</string>
+    <!-- 登录 -->
+    <string name="login">登录</string>
+    <string name="login_head_info">POLYV&#160;&#160;云课堂</string>
+    <string name="login_userId">用户ID</string>
+    <string name="login_vid">视频ID</string>
+    <string name="login_channelId">频道ID</string>
+    <string name="login_appId">APP ID</string>
+    <string name="login_appSecert">APP Secert</string>
+    <string name="login_waiting">正在登录中，请稍等...</string>
+    <string name="login_copyright">2013 - 2019 广州易方信息科技股份有限公司 版权所有</string>
+
+    <!-- 聊天室 -->
+    <string name="chat_tab_live_info_text_default">直播介绍</string>
+    <string name="chat_tab_custom_menu_text_default">自定义菜单</string>
+    <string name="chat_tab_iframe_menu_text_default">推广外链</string>
+    <string name="chat_tab_tuwen_menu_text_default">图文直播</string>
+    <string name="chat_tab_group_chat_text_default">聊天</string>
+    <string name="chat_tab_personal_chat_text_default">提问</string>
+    <string name="txt_reply">回复</string>
+    <string name="send_content_cannot_be_empty">发送内容不能为空!</string>
+    <string name="the_message_sent_cannot_be_empty">发送信息不能为空!</string>
+    <string name="fail_send">发送失败</string>
+    <string name="the_account_already_logged_in_on_another_device">该账号已在其他设备登录!</string>
+
+    <string name="txt_cancel">取消</string>
+    <string name="txt_error">失败</string>
+    <string name="txt_login">登录</string>
+    <string name="login_success">登录成功</string>
+    <string name="prassword_login">密码登录</string>
+    <string name="forget_prassword">忘记密码</string>
+    <string name="register_immediately">立即注册</string>
+    <string name="third_party_login">第三方账号登录</string>
+    <string name="txt_verification_code">验证码</string>
+    <string name="please_enter_verification_code">请输入验证码</string>
+    <string name="get_ode">获取验证码</string>
+    <string name="it_is_been_authorized">已经授权过了</string>
+    <string name="begin">开始吧！</string>
+
+
+    <string name="sms_quick_login">短信快捷登录</string>
+    <string name="please_enter_phone_number">请输入手机号</string>
+    <string name="txt_password">密码</string>
+    <string name="please_enter_6_20_password">请输入6-20位数字或字母密码</string>
+
+
+    <string name="home_page">选课</string>
+    <string name="our_cooperation">学习</string>
+    <string name="learning_flow">课程表</string>
+    <string name="txt_mine">我的</string>
+
+    <string name="no_products">暂无商品~</string>
+    <string name="no_content">暂无内容~</string>
+    <string name="today_no_content">当天暂无课程～</string>
+    <string name="recommended_for_you">为您推荐</string>
+    <string name="play_the_picture">播放画面</string>
+    <string name="people_class">人班</string>
+    <string name="organization">机构</string>
+    <string name="personage">个人</string>
+    <string name="free_of_charge">免费</string>
+    <string name="trial_class">试听课</string>
+    <string name="txt_live">直播</string>
+    <string name="txt_offline">线下</string>
+
+
+    <string name="free_trial">免费试听</string>
+    <string name="enter_course_name">输入课程名称</string>
+    <string name="recent_search">最近搜索</string>
+    <string name="just_lecturer_and_me">只看讲师和我</string>
+    <string name="check_everyone">查看所有人</string>
+    <string name="thought_the_host_did_a_great_job">觉得主持人讲得很棒!</string>
+    <string name="chat_room_exception_unable_receive_information">聊天室异常，无法接收信息!</string>
+    <string name="history_information_is_all_loaded">历史信息已全部加载完成！</string>
+    <string name="history_failed_to_load_please_try_again">加载历史信息失败，请重试！</string>
+    <string name="history_failed_to_load">加载历史信息失败</string>
+    <string name="connection_fail">连接失败</string>
+    <string name="logging_in">正在登录中</string>
+    <string name="reconnection_success">重连成功</string>
+    <string name="reconnection_progress">正在重连中...</string>
+    <string name="administrator_cleared_chat">管理员清空了聊天记录！</string>
+    <string name="kicked_out_of_the_chat_room_by_the_administrator">您已被管理员踢出聊天室！</string>
+    <string name="picture_sending_failed">图片发送失败</string>
+
+    <string name="make_a_plan">做规划</string>
+    <string name="surf_the_internet_course">上网课</string>
+    <string name="offline_learning">线下学</string>
+    <string name="looking_for_a_space">找空间</string>
+    <string name="txt_register">注册</string>
+    <string name="please_set_new_password_6_20_digits_or_letters">请设置新密码，6-20位数字或字母</string>
+    <string name="retrieve_password">找回密码</string>
+    <string name="confirm">确定</string>
+    <string name="select_city">选择城市</string>
+    <string name="empty">清空</string>
+    <string name="bind_phone_number">绑定手机号</string>
+    <string name="registration_is_consent">注册即同意</string>
+    <string name="load_agreentment_first">请您务必阅读、充分理解“注册协议”和“隐私协议”，包括但不限于：为您提供内容分享等服务，我们需要收集您的操作日志等个人信息。您可以阅读</string>
+    <string name="load_agreentment_secod">了解详细信息。如您同意，请点击“同意”并开始接收我们的服务。</string>
+    <string name="registe_success">注册成功</string>
+    <string name="update_success">修改成功</string>
+    <string name="service_number">官方客服电话</string>
+    <string name="living">直播中</string>
+    <string name="all_orders">全部订单</string>
+    <string name="courses_order">课程订单</string>
+    <string name="planner_order">咨询订单</string>
+    <string name="space_order">空间订单</string>
+    <string name="soon_learn">马上学习</string>
+    <string name="payment_success">支付成功</string>
+    <string name="live_time">直播时间</string>
+    <string name="space">空间</string>
+    <string name="course">课程</string>
+    <string name="consultation_service">咨询服务</string>
+    <string name="offline_course">线下课</string>
+    <string name="online_course">线上课程</string>
+    <string name="live_course">直播课程</string>
+    <string name="video_course">视频课程</string>
+    <string name="unpaid">待支付</string>
+    <string name="to_be_used">待使用</string>
+    <string name="off_the_stocks">已完成</string>
+    <string name="canceled">已取消</string>
+    <string name="input_content">输入内容</string>
+    <string name="out_of_pocket">实付</string>
+    <string name="all_classifications">全部分类</string>
+    <string name="all_form">全部形式</string>
+    <string name="select_time">选择时间</string>
+    <string name="input_space_name">输入空间名</string>
+    <string name="be_sure_to_delete_all_history">确定删除全部历史记录</string>
+    <string name="network_error_please_try_again_later">网络错误,请稍后重试</string>
+    <string name="abnormal_network_connection">网络连接异常</string>
+    <string name="please_log_in_first">请先登录</string>
+    <string name="shot_tracker">图文直播</string>
+    <string name="live_is_introduced">直播介绍</string>
+    <string name="first_quarter">第一节</string>
+    <string name="added">已添加</string>
+    <string name="regain">重新获取</string>
+    <string name="chat">聊天</string>
+    <string name="verification_code_has_been_issued">验证码已发出</string>
+    <string name="wrong_phone_number_format">手机号格式错误</string>
+    <string name="wrong_captcha_format">验证码格式错误</string>
+    <string name="quiz">提问</string>
+    <string name="enter_your_pin">请输入密码</string>
+    <string name="recently_in_learning">最近在学</string>
+    <string name="course_collection">课程收藏</string>
+    <string name="space_collection">空间收藏</string>
+    <string name="online_course_collection">在线课程收藏</string>
+    <string name="collection_consulting_services">咨询服务收藏</string>
+    <string name="recommend">推荐</string>
+    <string name="nickname">用户昵称</string>
+    <string name="binding_wechat">绑定微信</string>
+    <string name="change_password">修改密码</string>
+    <string name="about_us">关于我们</string>
+    <string name="switch_business_mode">切换商家模式</string>
+    <string name="log_out">退出登录</string>
+    <string name="man">男</string>
+    <string name="woman">女</string>
+    <string name="modify_picture">修改头像</string>
+    <string name="please_select_gender">请选择性别</string>
+    <string name="gender">性别</string>
+    <string name="education_background">学历</string>
+    <string name="age">年龄</string>
+    <string name="personal_information">个人信息</string>
+    <string name="please_select_education_background">请选择学历</string>
+    <string name="please_select_age">请选择年龄</string>
+    <string name="photograph">拍照</string>
+    <string name="photo_album_to_choose">相册选择</string>
+    <string name="registration_protocol">注册协议</string>
+    <string name="service_agreement">服务协议</string>
+    <string name="code_registration_protocol">未注册手机登录后将自动注册，注册即同意《服务协议》</string>
+    <string name="service_agreements_and_privacy_agreements">服务协议和隐私协议</string>
+    <string name="user_privacy_agreement">隐私协议</string>
+    <string name="on_line_study">在线学习</string>
+    <string name="reset">重置</string>
+    <string name="my_order">我的订单</string>
+    <string name="please_enter_content">请输入内容</string>
+    <string name="check_your_network_connection">请检查您的网络连接!</string>
+    <string name="all_area">全部区域</string>
+    <string name="all_classify">全部分类</string>
+    <string name="screen">筛选</string>
+    <string name="upload_failed_please_try_again_later">上传失败，请稍后重试</string>
+    <string name="loading">加载中</string>
+    <string name="reload">重新加载</string>
+    <string name="skip">跳过</string>
+    <string name="please_update_if_you_find_a_new_version">发现新版本请更新!</string>
+    <string name="personal_information_settings">设置</string>
+    <string name="are_you_sure_to_log_out">确定退出登录吗?</string>
+    <string name="ignore">忽略</string>
+    <string name="update">更新</string>
+    <string name="suspend_all">暂停全部</string>
+    <string name="download_the_entire">下载全部</string>
+    <string name="hint">提示</string>
+    <string name="whether_to_clear_all_the_tasks_in_the_download">是否要清空所有下载中的任务?</string>
+    <string name="industry_experts_professional_career_planning">行业专家亲授，执业生涯规划</string>
+    <string name="not_to_use">暂不使用</string>
+    <string name="consent">同意</string>
+    <string name="sunday">日</string>
+    <string name="one">一</string>
+    <string name="two">二</string>
+    <string name="three">三</string>
+    <string name="four">四</string>
+    <string name="five">五</string>
+    <string name="six">六</string>
+    <string name="video">视频</string>
+    <string name="go_and_collect_the_space_you_like">快去收藏喜欢的空间吧~</string>
+    <string name="go_and_collect_the_course_you_like">快去收藏喜欢的课程吧~</string>
+    <string name="go_and_collect_the_online_course_you_like">快去收藏喜欢的在线课程吧~</string>
+    <string name="go_and_collect_the_planner_you_like">快去收藏喜欢的咨询服务吧~</string>
+    <string name="want_to_consulting">我要咨询</string>
+    <string name="all">全部</string>
+    <string name="today">今</string>
+    <string name="yyyy_mm_dd_hh_mm_ss">yyy-MM-dd HH:mm:ss</string>
+    <string name="yyyy_mm">yyyy年MM月</string>
+    <string name="mm_dd">MM月dd日</string>
+
+    <string name="consulting_services">咨询服务</string>
+    <string name="not_started">未开始</string>
+    <string name="began_to_consulting">开始咨询</string>
+    <string name="end_of_the_consultation">咨询结束</string>
+
+    <string name="original_password">原密码</string>
+    <string name="please_enter_the_original_password">请输入原密码</string>
+    <string name="new_password">新密码</string>
+    <string name="achieve">完成</string>
+    <string name="versions">版本</string>
+    <string name="entering_nicknames">支持输入中英文昵称</string>
+    <string name="commit">提交</string>
+    <string name="primary_school">小学</string>
+    <string name="junior_high_school">初中</string>
+    <string name="senior_high_school">高中</string>
+    <string name="regular_college_course">本科</string>
+    <string name="master">硕士</string>
+    <string name="learned_scholar">博士</string>
+    <string name="adult_continuing_education">成人继续教育</string>
+    <string name="other">其他</string>
+    <string name="beta">测试版</string>
+    <string name="choose_career_planner">选择学涯规划师</string>
+    <string name="choice_career_planner">选择生涯规划师</string>
+    <string name="comprehensive_ranking">综合排序</string>
+    <string name="all_the_school">全部学校</string>
+    <string name="entire_campus">全部校区</string>
+    <string name="all_forms_of">全部形式</string>
+
+    <!--安博爱学-->
+    <string name="home_school">学校介绍</string>
+    <string name="home_teacher">名师介绍</string>
+    <string name="school">校区</string>
+    <string name="school_detail">校区详情</string>
+    <string name="teacher">名师</string>
+    <string name="teacher_detail">教师详情</string>
+    <string name="no_school">暂无校区～</string>
+    <string name="school_location">校区地址</string>
+    <string name="school_phone">联系电话</string>
+    <string name="school_des">分校介绍</string>
+    <string name="school_end">毕业学校</string>
+    <string name="mine_tools">常用工具</string>
+    <string name="mine_ticket">优惠券</string>
+    <string name="mine_collect">我的收藏</string>
+    <string name="mine_learn">最近学习</string>
+    <string name="ticket">优惠券</string>
+    <string name="ticket_course">优惠课程</string>
+    <string name="jor">偏好</string>
+    <string name="ticket_use">已使用</string>
+    <string name="ticket_over">已过期</string>
+    <string name="ticket_empty">暂无优惠券～</string>
+    <string name="collect_empty">暂无收藏课程～</string>
+    <string name="learn_empty">快去学习喜欢的课程吧~</string>
+    <string name="tutor">个辅</string>
+    <string name="class_tutorship">班辅</string>
+    <string name="search_hint">搜索课程</string>
+
+
 </resources>
+
+
+
+
+
+
+

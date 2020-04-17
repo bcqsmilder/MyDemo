@@ -1,1 +1,1 @@
-include ':app', ':ambownetutils', ':ambow_login', ':ambow_utils'
+include ':app', ':ambownetutils', ':ambow_login', ':ambow_utils', ':ambow_live'

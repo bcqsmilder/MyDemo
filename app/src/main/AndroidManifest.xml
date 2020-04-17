@@ -26,6 +26,7 @@
         <activity android:name="com.ambow.mydemo.HomeActivity"/>
 
         <activity android:name=".LoginActivity"/>
+        <activity android:name=".video.PolyvPlayerActivity"/>
     </application>
 
 </manifest>

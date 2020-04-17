@@ -7,6 +7,7 @@ import android.util.Log
 import android.view.View
 import com.ambow.Bean.HttpResponse
 import com.ambow.callback.BaseCallBack
+import com.ambow.mydemo.video.PolyvPlayerActivity
 
 import kotlinx.android.synthetic.main.activity_home.*
 
@@ -25,6 +26,15 @@ class HomeActivity :Activity(){
                 Log.i("Mainactivity=======","login启动了")
                 var intent=Intent();
                 intent.setClass(this@HomeActivity,LoginActivity::class.java)
+                startActivity(intent)
+            }
+        })
+
+        txt_live_click.setOnClickListener(object : View.OnClickListener{
+            override fun onClick(v: View?) {
+                Log.i("Mainactivity=======","live启动了")
+                var intent=Intent();
+                intent.setClass(this@HomeActivity,PolyvPlayerActivity::class.java)
                 startActivity(intent)
             }
         })
